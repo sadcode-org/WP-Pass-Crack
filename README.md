@@ -5,7 +5,7 @@ version 1.0
 <br>
 <h2>Use</h2>
 <code>git clone https://github.com/sadcode-org/WP-Pass-Crack.git</code><br>
-<code>cd WP-Pass-Crack</code>
+<code>cd WP-Pass-Crack</code><br>
 <code>php run.php</code><br><br>
 <h2>WordPress hash cracker</h2>
 <img src="./wp.png" style="max-width:100%;">
