@@ -1,6 +1,6 @@
 <?php
-include("wpHash.php");
-include("Header.php");
+include("system.php");
+include("header.php");
 $wList = file_get_contents("wList.txt");
 $wList = explode("\n",$wList);
 echo $white;
